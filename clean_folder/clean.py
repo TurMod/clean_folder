@@ -114,6 +114,3 @@ def launch_script():
             raise IndexError
     except IndexError:
         print('Вы не указали путь к папке!')
-
-
-launch_script()

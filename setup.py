@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 
 setup(
-    name='clean_folder',
+    name='cleanfolder',
     version='1',
     description='This module will sort your folder.',
     url='https://github.com/TurMod/clean_folder',
